@@ -18,10 +18,10 @@
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/dania-alsaqqa-38a62418b/">
-  <img align="left" alt="linkedin" width="22px" src="https://user-images.githubusercontent.com/49654167/115943483-e3ef9880-a4b8-11eb-8506-2bf52de17a9f.png" />
+  <img align="left" alt="linkedin" width="35px" src="https://user-images.githubusercontent.com/49654167/115943483-e3ef9880-a4b8-11eb-8506-2bf52de17a9f.png" />
 </a>
 <a href="https://www.facebook.com/daniasaqqa1">
-  <img align="left" alt="Facebook" width="22px" src="https://user-images.githubusercontent.com/49654167/115943612-96276000-a4b9-11eb-9ea7-90bd1131e236.png" />
+  <img align="left" alt="Facebook" width="35px" src="https://user-images.githubusercontent.com/49654167/115943612-96276000-a4b9-11eb-9ea7-90bd1131e236.png" />
 </a>
 
 
