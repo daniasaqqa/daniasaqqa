@@ -32,7 +32,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/49654167/115941330-a33e5200-a4ad-11eb-9994-a1d5e4a42101.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/49654167/115941965-6889e900-a4b0-11eb-914e-1b93e71d5610.png"></code>
+<code><img height="45" src="https://user-images.githubusercontent.com/49654167/115941965-6889e900-a4b0-11eb-914e-1b93e71d5610.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/49654167/115942026-ba327380-a4b0-11eb-9950-28d72c08ad31.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/49654167/115942072-02519600-a4b1-11eb-9d65-a9c8cccf6d60.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/49654167/115942085-14333900-a4b1-11eb-9954-1102488aacf3.png"></code>    
