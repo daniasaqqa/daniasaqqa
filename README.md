@@ -7,8 +7,8 @@
 
 ## I'm a flutter developer📱 and UX/UI Designer 🎨 
 
-- 🔭 I’m currently working at: [Linkedin] (https://www.linkedin.com/in/dania-alsaqqa-38a62418b/)
-- 🔭 I’m currently working at: [Fiverr] (https://www.fiverr.com/daniaalsaqqa21)
+- 🔭 I’m currently working at: <a href="https://www.linkedin.com/in/dania-alsaqqa-38a62418b/" rel="nofollow">Linkedin</a><br>
+- 🔭 I’m currently working at: <a href="https://www.fiverr.com/daniaalsaqqa21" rel="nofollow">Fiverr</a><br>
 - 🌱 I’m currently learning flutter for web 💻
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything 
