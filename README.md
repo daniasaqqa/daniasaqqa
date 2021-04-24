@@ -7,8 +7,8 @@
 
 ## I'm a flutter developer📱 and UX/UI Designer 🎨 
 
-- 🔭 I’m currently working at: [Linkedin][https://www.linkedin.com/in/dania-alsaqqa-38a62418b/]
-- 🔭 I’m currently working at: [Fiverr][https://www.fiverr.com/daniaalsaqqa21]
+- 🔭 I’m currently working at: [Linkedin] (https://www.linkedin.com/in/dania-alsaqqa-38a62418b/)
+- 🔭 I’m currently working at: [Fiverr] (https://www.fiverr.com/daniaalsaqqa21)
 - 🌱 I’m currently learning flutter for web 💻
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything 
@@ -18,10 +18,10 @@
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/dania-alsaqqa-38a62418b/">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://user-images.githubusercontent.com/49654167/115943483-e3ef9880-a4b8-11eb-8506-2bf52de17a9f.png" />
+  <img align="left" alt="linkedin" width="22px" src="https://user-images.githubusercontent.com/49654167/115943483-e3ef9880-a4b8-11eb-8506-2bf52de17a9f.png" />
 </a>
 <a href="https://www.facebook.com/daniasaqqa1">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://user-images.githubusercontent.com/49654167/115943612-96276000-a4b9-11eb-9ea7-90bd1131e236.png" />
+  <img align="left" alt="Facebook" width="22px" src="https://user-images.githubusercontent.com/49654167/115943612-96276000-a4b9-11eb-9ea7-90bd1131e236.png" />
 </a>
 
 
@@ -29,13 +29,13 @@
 
 ### Languages and Tools:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/49654167/115941330-a33e5200-a4ad-11eb-9994-a1d5e4a42101.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/49654167/115941965-6889e900-a4b0-11eb-914e-1b93e71d5610.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/49654167/115942026-ba327380-a4b0-11eb-9950-28d72c08ad31.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/49654167/115942072-02519600-a4b1-11eb-9d65-a9c8cccf6d60.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/49654167/115942085-14333900-a4b1-11eb-9954-1102488aacf3.png"></code>    
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/49654167/115941330-a33e5200-a4ad-11eb-9994-a1d5e4a42101.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/49654167/115941965-6889e900-a4b0-11eb-914e-1b93e71d5610.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/49654167/115942026-ba327380-a4b0-11eb-9950-28d72c08ad31.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/49654167/115942072-02519600-a4b1-11eb-9d65-a9c8cccf6d60.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/49654167/115942085-14333900-a4b1-11eb-9954-1102488aacf3.png"></code>    
 
 <br />
 <br />
